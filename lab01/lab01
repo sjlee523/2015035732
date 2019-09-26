@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link href="" type="" rel=""/>
+    <title>About Sujong!</title>
+    <meta charset="utf-8">
+  </head>
+  
+  <body>
+    <h1>Sujong Lee</h1>
+    <p>
+    My name is Sujong and I am <em>AAA</em> but <strong>BBB</strong> and <strong>CCC</strong>.
+    </p>
+    <hr />
+    
+    <h2>My Courses @ HYU</h2>
+    <ul>
+      <li>MOC0001 : 20s-Adolescent Psychology </li>
+      <li>CSE3010 : Database </li>
+      <li>CSE3026 : WEB APPLICATION DEVELOPMENT </li>
+      <li>ELE3034 : ALGORIHM </li>
+      <li>INE2018 : Computer Statistics </li>
+      <li>MAT3008 : Numerial analytics </li>
+      <li>DEE2042 : Enlgish-communication </li>
+    </ul>
+    <hr />
+    
+    <h2>My favorite Moives</h2>
+    <ol reversed="reversed">
+      <li> Spider-Man: Far from Home <a href="https://www.imdb.com/title/tt6320628/?ref_=nv_sr_1?ref_=nv_sr_1">(IMDB)</a> </li>
+      <li> Inglourious Basterds <a href="https://www.imdb.com/title/tt0361748/?ref_=nv_sr_1?ref_=nv_sr_1">(IMDB)</a> </li>
+      <li> Ant-Man and the Wasp <a href="https://www.imdb.com/title/tt5095030/?ref_=nv_sr_1?ref_=nv_sr_1">(IMDB)</a> </li>
+         <dl>
+           <dt>Director</dt> <dd>Peyton Reed</dd>
+           <dt>Genre</dt> <dd>Action, Adventure, Comedy</dd>
+           <dt>Stars</dt> <dd> Paul Rudd, Evangeline Lilly</dd>
+         </dl>
+    </ol>
+    <hr />
+    
+    <h2>My favorite drink</h2>
+    <p>
+    (I like that!)
+    </p>
+    <p>
+    Sprite : <img src="http://img.danawa.com/prod_img/500000/545/157/img/3157545_1.jpg?shrink=500:500&_v=20180523170159" alt = "Sprite"  width="200">
+    Haneulboli : <img src="https://www.wjfood.co.kr/Psd/Brand/B0201_sub821.jpg" alt = "Haneulboli" width="200">
+    Budweisser : <img src="http://img.etnews.com/photonews/1901/1152597_20190128152140_286_0001.jpg" alt = "Budweisser" width="200">
+    </p>
+    <hr />
+    
+    <h2>My favorite Quote</h2>
+        <blockquote>
+          <p>
+          <em>True life is lived when tiny changes occur.</em>
+          </p>
+        </blockquote>
+        <blockquote>
+          <p>
+          <em><strong>- Leo Tolstoy</strong></em>
+          </p>
+        </blockquote>
+    <hr />
+    
+    <h2>Fun Facts About My Friends</h2>
+    <table>
+      <caption>SE Lab Members</caption>
+      <tr><th>First Name</th> <th> Facts</th></tr>
+      <tr><td>Jaeho</td> <td>Likes Working Out</td></tr>
+      <tr><td>Jaein</td> <td>Likes <del>Working Out</del> <ins>Crayon Pop</ins></td></tr>
+    </table>
+    <hr />
+    
+    <h2>Funny video fron YouTube</h2>
+    <p>
+    Workman Video
+    </br>
+    <iframe width="500" height="315" src="https://www.youtube.com/watch?v=tQjfEFg1DR8" allow="accelerometer; autoplay; encrypted-media;" allowfullscreen></iframe>
+    </p>
+    <hr />
+    
+    
+</body>
+
+</html>
