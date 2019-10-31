@@ -1,1 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
 
+	<head>
+		<title>Music Library</title>
+		<meta charset="utf-8" />
+		<link href="https://selab.hanyang.ac.kr/courses/cse326/2019/labs/images/5/music.jpg" type="image/jpeg" rel="shortcut icon" />
+		<link href="https://selab.hanyang.ac.kr/courses/cse326/2019/labs/labResources/music.css" type="text/css" rel="stylesheet" />
+	</head>
+
+	<body>
+		<h1>My Music Page</h1>
+		
+        <?php
+            $song_count = 10;
+            $play_hours = 1;
+        ?>
+        <p>
+            I love music.
+            I have <?= $song_count ?> total songs,
+            which is over <?= $play_hours ?> hours of music!
+        </p>
+        
+	</body>
+</html>
